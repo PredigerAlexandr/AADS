@@ -1,0 +1,14 @@
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Поиск максимального среднекго делителя\MaxAllDel\MaxAllDel\bin\Debug\net8.0\MaxAllDel.exe
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Поиск максимального среднекго делителя\MaxAllDel\MaxAllDel\bin\Debug\net8.0\MaxAllDel.deps.json
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Поиск максимального среднекго делителя\MaxAllDel\MaxAllDel\bin\Debug\net8.0\MaxAllDel.runtimeconfig.json
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Поиск максимального среднекго делителя\MaxAllDel\MaxAllDel\bin\Debug\net8.0\MaxAllDel.dll
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Поиск максимального среднекго делителя\MaxAllDel\MaxAllDel\bin\Debug\net8.0\MaxAllDel.pdb
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Поиск максимального среднекго делителя\MaxAllDel\MaxAllDel\obj\Debug\net8.0\MaxAllDel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Поиск максимального среднекго делителя\MaxAllDel\MaxAllDel\obj\Debug\net8.0\MaxAllDel.AssemblyInfoInputs.cache
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Поиск максимального среднекго делителя\MaxAllDel\MaxAllDel\obj\Debug\net8.0\MaxAllDel.AssemblyInfo.cs
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Поиск максимального среднекго делителя\MaxAllDel\MaxAllDel\obj\Debug\net8.0\MaxAllDel.csproj.CoreCompileInputs.cache
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Поиск максимального среднекго делителя\MaxAllDel\MaxAllDel\obj\Debug\net8.0\MaxAllDel.dll
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Поиск максимального среднекго делителя\MaxAllDel\MaxAllDel\obj\Debug\net8.0\refint\MaxAllDel.dll
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Поиск максимального среднекго делителя\MaxAllDel\MaxAllDel\obj\Debug\net8.0\MaxAllDel.pdb
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Поиск максимального среднекго делителя\MaxAllDel\MaxAllDel\obj\Debug\net8.0\MaxAllDel.genruntimeconfig.cache
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Поиск максимального среднекго делителя\MaxAllDel\MaxAllDel\obj\Debug\net8.0\ref\MaxAllDel.dll

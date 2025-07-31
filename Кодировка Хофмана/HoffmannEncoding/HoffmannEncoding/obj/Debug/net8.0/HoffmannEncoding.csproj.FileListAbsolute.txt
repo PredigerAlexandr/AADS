@@ -1,0 +1,28 @@
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\HoffmannEncoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\HoffmannEncoding.AssemblyInfoInputs.cache
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\HoffmannEncoding.AssemblyInfo.cs
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\HoffmannEncoding.csproj.CoreCompileInputs.cache
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\bin\Debug\net8.0\HoffmannEncoding.exe
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\bin\Debug\net8.0\HoffmannEncoding.deps.json
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\bin\Debug\net8.0\HoffmannEncoding.runtimeconfig.json
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\bin\Debug\net8.0\HoffmannEncoding.dll
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\bin\Debug\net8.0\HoffmannEncoding.pdb
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\HoffmannEncoding.dll
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\refint\HoffmannEncoding.dll
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\HoffmannEncoding.pdb
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\HoffmannEncoding.genruntimeconfig.cache
+C:\Users\predi\OneDrive\Рабочий стол\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\ref\HoffmannEncoding.dll
+C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\bin\Debug\net8.0\HoffmannEncoding.exe
+C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\bin\Debug\net8.0\HoffmannEncoding.deps.json
+C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\bin\Debug\net8.0\HoffmannEncoding.runtimeconfig.json
+C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\bin\Debug\net8.0\HoffmannEncoding.dll
+C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\bin\Debug\net8.0\HoffmannEncoding.pdb
+C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\HoffmannEncoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\HoffmannEncoding.AssemblyInfoInputs.cache
+C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\HoffmannEncoding.AssemblyInfo.cs
+C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\HoffmannEncoding.csproj.CoreCompileInputs.cache
+C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\HoffmannEncoding.dll
+C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\refint\HoffmannEncoding.dll
+C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\HoffmannEncoding.pdb
+C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\HoffmannEncoding.genruntimeconfig.cache
+C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Learn AAS\Кодировка Хофмана\HoffmannEncoding\HoffmannEncoding\obj\Debug\net8.0\ref\HoffmannEncoding.dll
