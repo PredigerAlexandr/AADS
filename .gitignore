@@ -1,0 +1,16 @@
+## Игнорируем бинарные и скомпилированные файлы ##
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.lib
+*.exp
+*.ilk
+*.msi
+*.nupkg
+
+## Файлы Rider / VS Code ##
+.idea/
+.vscode/

@@ -1,4 +1,0 @@
-C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Sorting\Sorting\BubbleSort\obj\Debug\net8.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Sorting\Sorting\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfoInputs.cache
-C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Sorting\Sorting\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfo.cs
-C:\Users\predi\OneDrive\Рабочий стол\бекап от 28.08.2023\Работа мечты!\Sorting\Sorting\BubbleSort\obj\Debug\net8.0\BubbleSort.csproj.CoreCompileInputs.cache
