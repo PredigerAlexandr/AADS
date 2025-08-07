@@ -6,6 +6,7 @@ foreach (var item in array)
 {
     Console.Write($@"{item} ");
 }
+
 Console.WriteLine();
 Console.WriteLine();
 
@@ -14,6 +15,16 @@ var arrayTask1 = new[] { 5, 3, 6, 2, 10, 8 };
 SelectionSortTask1(arrayTask1, 5);
 
 foreach (var item in arrayTask1)
+{
+    Console.Write($@"{item} ");
+}
+
+Console.WriteLine();
+Console.WriteLine();
+
+var testArray = SelectionSortTask2(arrayTask1, 5);
+
+foreach (var item in testArray)
 {
     Console.Write($@"{item} ");
 }
@@ -48,7 +59,7 @@ void SelectionSortTask1(int[] array, int del)
     for (var i = array.Length - 1; i > 0; i--)
     {
         int largestNumIndex = -1;
-        
+
         for (var k = 0; k <= i; k++)
         {
             if (array[k] % del != 0)
@@ -57,7 +68,7 @@ void SelectionSortTask1(int[] array, int del)
                 break;
             }
 
-            if (largestNumIndex == -1 && k==i)
+            if (largestNumIndex == -1 && k == i)
             {
                 end = true;
             }
@@ -67,7 +78,7 @@ void SelectionSortTask1(int[] array, int del)
         {
             return;
         }
-        
+
         for (var j = 0; j <= i; j++)
         {
             if (array[largestNumIndex] < array[j])
@@ -88,4 +99,60 @@ void SelectionSortTask1(int[] array, int del)
             }
         }
     }
+}
+
+//второе решение задачи, более оптимизированное
+int[] SelectionSortTask2(int[] array, int del)
+{
+    var notTouchNumber = new bool[array.Length];
+    var sortNumbers = new List<int>();
+
+    for (var i = 0; i < array.Length; i++)
+    {
+        if (array[i] % del == 0)
+        {
+            notTouchNumber[i] = true;
+        }
+        else
+        {
+            sortNumbers.Add(array[i]);
+        }
+    }
+
+    for (var i = sortNumbers.Count - 1; i > 0; i--)
+    {
+        var maxNumberIndex = 0;
+        for (var j = 0; j < i; j++)
+        {
+            if (sortNumbers[j] > sortNumbers[maxNumberIndex])
+            {
+                maxNumberIndex = i;
+            }
+
+            if (j == i)
+            {
+                var temp = sortNumbers[i];
+                sortNumbers[i] = sortNumbers[maxNumberIndex];
+                sortNumbers[maxNumberIndex] = temp;
+            }
+        }
+    }
+
+    var result = new int[array.Length];
+    var sortedIndex = 0;
+    
+    
+    for (var i = 0; i < result.Length; i++)
+    {
+        if (notTouchNumber[i] == true)
+        {
+            result[i] = array[i];
+        }
+        else
+        {
+            result[i] = sortNumbers[sortedIndex++];
+        }
+    }
+
+    return result;
 }
