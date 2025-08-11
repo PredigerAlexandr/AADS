@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Another", "Another\Another.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingWindow", "SlidingWindow\SlidingWindow.csproj", "{31D1ABC3-EB39-4473-8B14-50707C381CB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{166F62C2-948C-48E0-9BA6-8C471FC7D95A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{31D1ABC3-EB39-4473-8B14-50707C381CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31D1ABC3-EB39-4473-8B14-50707C381CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31D1ABC3-EB39-4473-8B14-50707C381CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166F62C2-948C-48E0-9BA6-8C471FC7D95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166F62C2-948C-48E0-9BA6-8C471FC7D95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166F62C2-948C-48E0-9BA6-8C471FC7D95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166F62C2-948C-48E0-9BA6-8C471FC7D95A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
