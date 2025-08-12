@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoPointers", "TwoPointers\TwoPointers.csproj", "{647561AE-2866-4CB5-9922-85843CBD4E2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntervalsMerge", "IntervalsMerge\IntervalsMerge.csproj", "{2C8AF550-5DA8-44F1-AE50-13750D044EDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{647561AE-2866-4CB5-9922-85843CBD4E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{647561AE-2866-4CB5-9922-85843CBD4E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{647561AE-2866-4CB5-9922-85843CBD4E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8AF550-5DA8-44F1-AE50-13750D044EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8AF550-5DA8-44F1-AE50-13750D044EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8AF550-5DA8-44F1-AE50-13750D044EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8AF550-5DA8-44F1-AE50-13750D044EDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
