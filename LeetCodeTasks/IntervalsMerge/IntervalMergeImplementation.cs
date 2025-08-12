@@ -25,7 +25,6 @@ public static class IntervalMergeImplementation
         while (i < intervals.Length && newInterval[1] >= intervals[i][0])
         {
             left = Math.Min(intervals[i][0], left);
-            
             right = Math.Max(intervals[i][1], right);
 
             i++;
