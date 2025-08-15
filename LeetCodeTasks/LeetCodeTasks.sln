@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoPointers", "TwoPointers\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntervalsMerge", "IntervalsMerge\IntervalsMerge.csproj", "{2C8AF550-5DA8-44F1-AE50-13750D044EDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewTasks", "InterviewTasks\InterviewTasks.csproj", "{DF9257F0-80AC-4FF8-B783-4DDD4D6AE99E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{2C8AF550-5DA8-44F1-AE50-13750D044EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C8AF550-5DA8-44F1-AE50-13750D044EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C8AF550-5DA8-44F1-AE50-13750D044EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9257F0-80AC-4FF8-B783-4DDD4D6AE99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9257F0-80AC-4FF8-B783-4DDD4D6AE99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9257F0-80AC-4FF8-B783-4DDD4D6AE99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9257F0-80AC-4FF8-B783-4DDD4D6AE99E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

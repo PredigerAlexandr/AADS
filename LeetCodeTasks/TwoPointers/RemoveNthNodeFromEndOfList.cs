@@ -1,5 +1,5 @@
 ﻿namespace TwoPointers;
-
+//19. Remove Nth Node From End of List - необходимо удалить n-ый элемент с конца односвязного списка
 public static class RemoveNthNodeFromEndOfList
 {
     public static ListNode Execute(ListNode head, int n)
