@@ -10,3 +10,7 @@ Console.ReadKey();
 var strs = new string[]{"flower","flow","flight"};
 var result2 = LongestCommonPrefix.Execute(strs);
 Console.ReadKey();
+
+//49. Group Anagrams - суть на вход даёт список строк, найти группы всех строк, которые составлены из одних и тех же букв
+var result3 = GroupAnagrams.Execute(new []{"eat","tea","tan","ate","nat","bat"});
+Console.ReadKey();
