@@ -7,3 +7,6 @@ var intervals = new[] { new[] { 1, 3 }, new[]{ 6, 9 } };
 var newInterval = new[] {2, 5};
 var result1 = IntervalMergeImplementation.Execute(intervals, newInterval);
 Console.ReadKey();
+
+var result2 = MergeIntervals.Execute(intervals);
+Console.ReadKey();
